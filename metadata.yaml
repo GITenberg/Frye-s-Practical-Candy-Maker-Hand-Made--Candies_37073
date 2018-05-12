@@ -1,0 +1,29 @@
+_repo: Frye-s-Practical-Candy-Maker-Hand-Made--Candies_37073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frye, George V.
+    gutenberg_agent_id: '38628'
+    url: http://www.gutenberg.org/2009/agents/38628
+description: ''
+gutenberg_issued: '2011-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Confectionery'
+tableOfContents: Sugar -- Colors -- Stick candy -- Fruit rock -- Cough, and other
+  drops -- Taffies -- Taffies (extra fine) -- Bar candies -- Caramels -- Butter cups
+  -- Cocoanut goods -- Almond goods -- Miscellaneous goods -- Cream goods -- Chocolate
+  work -- Syrups for the soda water fountain.
+title: "Frye's Practical Candy Maker\r\nComprising Practical Receipts for the Manufacture\
+  \ of Fine \"Hand-Made\" Candies"
+url: http://www.gutenberg.org/ebooks/37073
